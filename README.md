@@ -4,6 +4,8 @@ This project is an implementation of the EIS vacuum world - https://github.com/e
 
 It is written in Astra - http://astralanguage.com/wordpress/
 
+It was developed in collaboration with https://github.com/Lukadolla and https://github.com/GerardColman
+
 **How To Run**
 
 Simply clone the project and then run mvn in the main directory.
@@ -23,4 +25,7 @@ Their is a visual element to the environment which allow you to watch the vacuum
 Quite satisfying really.
 
 ![image](https://user-images.githubusercontent.com/43865040/153251346-cb4aa896-b76b-47f9-8e36-b0ef7cae6a1e.png)
+
+Also would have liked to keep the original projects commit history and information,
+however the report added to the original repo contained more information than a public github project needed
 
