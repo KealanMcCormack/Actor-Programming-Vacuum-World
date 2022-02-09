@@ -27,7 +27,7 @@
     </repositories>
     
     <build>
-        <defaultGoal>clean compile dependency:copy-dependencies astra:deploy</defaultGoal>
+        <defaultGoal>compile dependency:copy-dependencies astra:deploy</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>com.astralanguage</groupId>
